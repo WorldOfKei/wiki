@@ -11,6 +11,11 @@
 * Subaru
 * Toyota
 
+# By Era
+* 360cc (1949-1975)
+* 550cc (1976–1990)
+* 660cc (1990–2014)
+
 # By Drive System
 * Front Wheel Drive
 * Rear Wheel Drive
