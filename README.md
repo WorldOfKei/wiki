@@ -2,14 +2,14 @@
 
 # By Manufacturer
 * [Autozam](./vehicles/autozam/index.md)
-* Daihatsu
+* [Daihatsu](./vehicles/honda/daihatsu.md)
 * [Honda](./vehicles/honda/index.md)
 * [Mazda](./vehicles/mazda/index.md)
 * [Mitsubishi](./vehicles/mitsubishi/index.md)
 * [Nissan](./vehicles/nissan/index.md)
 * [Suzuki](./vehicles/suzuki/index.md)
-* Subaru
-* Toyota
+* [Subaru](./vehicles/subaru/index.md)
+* [Toyota](./vehicles/toyota/index.md)
 
 # By Era
 * 360cc (1949-1975)
