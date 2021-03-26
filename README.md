@@ -28,6 +28,6 @@
 * Truck/Van
 
 # By Induction Type
-* Naturally Aspirated
-* Turbocharged
-* Supercharged
+* [Naturally Aspirated](./categories/induction/natural.md)
+* [Turbocharged](./categories/induction/turbocharged.md)
+* [Supercharged](./categories/induction/supercharged.md)
