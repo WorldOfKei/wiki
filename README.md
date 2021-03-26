@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Category:Microvans
 
 # By Manufacturer
 * [Autozam](./vehicles/autozam/index.md)
-* [Daihatsu](./vehicles/honda/daihatsu.md)
+* [Daihatsu](./vehicles/daihatsu/index.md)
 * [Honda](./vehicles/honda/index.md)
 * [Mazda](./vehicles/mazda/index.md)
 * [Mitsubishi](./vehicles/mitsubishi/index.md)
