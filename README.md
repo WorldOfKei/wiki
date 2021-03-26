@@ -16,3 +16,6 @@
 # By Body Type
 
 # By Induction Type
+* Naturally Aspirated
+* Turbocharged
+* Supercharged
