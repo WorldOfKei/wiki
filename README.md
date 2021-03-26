@@ -4,10 +4,10 @@
 * [Autozam](./vehicles/autozam/index.md)
 * Daihatsu
 * [Honda](./vehicles/honda/index.md)
-* Mazda
-* Mitsubishi
-* Nissan
-* Suzuki
+* [Mazda](./vehicles/mazda/index.md)
+* [Mitsubishi](./vehicles/mitsubishi/index.md)
+* [Nissan](./vehicles/nissan/index.md)
+* [Suzuki](./vehicles/suzuki/index.md)
 * Subaru
 * Toyota
 
@@ -23,6 +23,9 @@
 * All Wheel Drive
 
 # By Body Type
+* Coupe
+* Hatchback
+* Truck/Van
 
 # By Induction Type
 * Naturally Aspirated
