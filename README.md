@@ -1,9 +1,9 @@
 ![](https://img.shields.io/static/v1.svg?label=Manufacturers&message=9&color=green)
 
 # By Manufacturer
-* Autozam
+* [Autozam](./vehicles/autozam/index.md)
 * Daihatsu
-* Honda
+* [Honda](./vehicles/honda/index.md)
 * Mazda
 * Mitsubishi
 * Nissan
