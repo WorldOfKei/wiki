@@ -1,5 +1,15 @@
 ![](https://img.shields.io/static/v1.svg?label=Manufacturers&message=9&color=green)
 
+https://gran-turismo.fandom.com/wiki/Category:Kei_cars
+
+https://en.wikipedia.org/wiki/Category:Kei_cars
+
+https://en.wikipedia.org/wiki/Category:Kei_trucks
+
+https://en.wikipedia.org/wiki/Category:Kei_sport_utility_vehicles
+
+https://en.wikipedia.org/wiki/Category:Microvans
+
 # By Manufacturer
 * [Autozam](./vehicles/autozam/index.md)
 * [Daihatsu](./vehicles/honda/daihatsu.md)
