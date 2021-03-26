@@ -12,6 +12,10 @@
 * Toyota
 
 # By Drive System
+* Front Wheel Drive
+* Rear Wheel Drive
+* 4 Wheel Drive
+* All Wheel Drive
 
 # By Body Type
 
