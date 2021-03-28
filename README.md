@@ -14,21 +14,13 @@ https://simpleicons.org/?q=mazda
 <h1 style="color:#30378d">By Manufacturer</h1>
 
 [![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.md)
-
 [![Daihatsu](https://shields.io/badge/Daihatsu-9-red?logo=toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=red)](./vehicles/daihatsu/index)
-
 [![Honda](https://shields.io/badge/Honda-9-red?logo=honda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=047bc0&color=red)](./vehicles/honda/index)
-
 [![Mazda](https://shields.io/badge/Mazda-9-red?logo=Mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=101010&color=red)](./vehicles/mazda/index)
-
 [![Mitsubishi](https://shields.io/badge/Mitsubishi-9-red?logo=Mitsubishi&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=E60012&color=red)](./vehicles/mitsubishi/index)
-
 [![Nissan](https://shields.io/badge/Nissan-9-red?logo=Nissan&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=C3002F&color=red)](./vehicles/nissan/index)
-
 [![Suzuki](https://shields.io/badge/Suzuki-9-red?logo=Suzuki&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=035dd0&color=red)](./vehicles/suzuki/index)
-
 [![Subaru](https://shields.io/badge/Subaru-9-red?logo=Subaru&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=013C74&color=red)](./vehicles/subaru/index)
-
 [![Toyota](https://shields.io/badge/Toyota-4-red?logo=Toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=red)](./vehicles/toyota/index)
 
 <h1 style="color:#30378d">By Era</h1>
