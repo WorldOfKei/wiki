@@ -30,12 +30,14 @@ https://simpleicons.org/?q=mazda
 
 [![Toyota](https://shields.io/badge/Toyota-4-red?logo=Toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=red)](./vehicles/toyota/index)
 
-# By Era
+<h1 style="color:#30378d">By Era</h1>
+
 * 360cc (1949-1975)
 * 550cc (1976–1990)
 * 660cc (1990–2014)
 
-# By Drive System
+<h1 style="color:#30378d">By Drive System</h1>
+
 * Front Wheel Drive
 * Rear Wheel Drive
 * 4 Wheel Drive
