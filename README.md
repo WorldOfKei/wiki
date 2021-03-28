@@ -1,3 +1,5 @@
+![](https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2020/03/feature-image-kei-cars.jpg)
+
 <h1 style="color:#30378d">By Manufacturer</h1>
 
 [![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.html)
