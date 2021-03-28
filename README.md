@@ -27,6 +27,7 @@
 <h1 style="color:#30378d">By Body Type</h1>
 
 [![Coupe](https://shields.io/badge/Coupe-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/coupe.html)
+[![SUV](https://shields.io/badge/SUV-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/suv.html)
 [![Hatchback](https://shields.io/badge/Hatchback-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/hatchback.html)
 [![Truck](https://shields.io/badge/Truck-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/truck.html)
 
