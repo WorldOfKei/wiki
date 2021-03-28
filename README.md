@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Category:Microvans
 https://simpleicons.org/?q=mazda
 
 # By Manufacturer
-[![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=white)](./vehicles/autozam/index)
+[![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=white)](./vehicles/autozam/index.md)
 
 [![Daihatsu](https://shields.io/badge/Daihatsu-9-red?logo=toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=white)](./vehicles/daihatsu/index)
 
