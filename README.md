@@ -25,9 +25,9 @@ https://simpleicons.org/?q=mazda
 
 <h1 style="color:#30378d">By Era</h1>
 
-* 360cc (1949-1975)
-* 550cc (1976–1990)
-* 660cc (1990–2014)
+[![360cc](https://shields.io/badge/360cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/360cc)
+[![550cc](https://shields.io/badge/550cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/550cc)
+[![660cc](https://shields.io/badge/660cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/660cc)
 
 <h1 style="color:#30378d">By Drive System</h1>
 
