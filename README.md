@@ -24,11 +24,6 @@
 [![All Wheel Drive](https://shields.io/badge/All%20Wheel%20Drive-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=009DE0&color=red)](./categories/drive/awd)
 [![4 Wheel Drive](https://shields.io/badge/4%20Wheel%20Drive-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=009DE0&color=red)](./categories/drive/4wd)
 
-* Front Wheel Drive
-* Rear Wheel Drive
-* 4 Wheel Drive
-* All Wheel Drive
-
 <h1 style="color:#30378d">By Body Type</h1>
 
 [![Coupe](https://shields.io/badge/Coupe-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/coupe)
