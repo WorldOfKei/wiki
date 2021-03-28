@@ -11,7 +11,8 @@ https://en.wikipedia.org/wiki/Category:Microvans
 
 https://simpleicons.org/?q=mazda
 
-# By Manufacturer
+<h1 style="color:#30378d">By Manufacturer</h1>
+
 [![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.md)
 
 [![Daihatsu](https://shields.io/badge/Daihatsu-9-red?logo=toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=red)](./vehicles/daihatsu/index)
@@ -43,12 +44,14 @@ https://simpleicons.org/?q=mazda
 * 4 Wheel Drive
 * All Wheel Drive
 
-# By Body Type
+<h1 style="color:#30378d">By Body Type</h1>
+
 [![Coupe](https://shields.io/badge/Coupe-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/coupe)
 [![Hatchback](https://shields.io/badge/Hatchback-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/hatchback)
 [![Truck](https://shields.io/badge/Truck-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/truck)
 
-# By Induction Type
+<h1 style="color:#30378d">By Induction Type</h1>
+
 [![Naturally Aspirated](https://shields.io/badge/Naturally%20Aspirated-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/natural)
 [![Turbocharged](https://shields.io/badge/Turbocharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/turbocharged)
 [![Supercharged](https://shields.io/badge/Supercharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/supercharged)
