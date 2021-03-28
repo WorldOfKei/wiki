@@ -42,9 +42,9 @@ https://simpleicons.org/?q=mazda
 * All Wheel Drive
 
 # By Body Type
-* Coupe
-* Hatchback
-* Truck/Van
+[![Coupe](https://shields.io/badge/Coupe-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/coupe)
+[![Hatchback](https://shields.io/badge/Hatchback-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/hatchback)
+[![Truck](https://shields.io/badge/Truck-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/truck)
 
 # By Induction Type
 [![Naturally Aspirated](https://shields.io/badge/Naturally%20Aspirated-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/natural)
