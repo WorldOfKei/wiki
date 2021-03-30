@@ -1,6 +1,6 @@
 ![](https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2020/03/feature-image-kei-cars.jpg)
 
-<h1 style="color:#30378d">By Manufacturer</h1>
+<h1 style="color:#30378d">Manufacturers</h1>
 
 [![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=black)](./vehicles/autozam/index.html)
 [![Daihatsu](https://shields.io/badge/Daihatsu-9-red?logo=toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=black)](./vehicles/daihatsu/index.html)
@@ -12,13 +12,13 @@
 [![Subaru](https://shields.io/badge/Subaru-9-red?logo=Subaru&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=013C74&color=black)](./vehicles/subaru/index.html)
 [![Toyota](https://shields.io/badge/Toyota-4-red?logo=Toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=black)](./vehicles/toyota/index.html)
 
-<h1 style="color:#30378d">By Era</h1>
+<h1 style="color:#30378d">Era</h1>
 
 [![360cc](https://shields.io/badge/360cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/360cc.html)
 [![550cc](https://shields.io/badge/550cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/550cc.html)
 [![660cc](https://shields.io/badge/660cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/660cc.html)
 
-<h1 style="color:#30378d">By Drive System</h1>
+<h1 style="color:#30378d">Drive System</h1>
 
 
 [![Front Wheel Drive](https://shields.io/badge/Front%20Wheel%20Drive-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=009DE0&color=black)](./categories/drive/fwd.html)
@@ -26,14 +26,14 @@
 [![All Wheel Drive](https://shields.io/badge/All%20Wheel%20Drive-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=009DE0&color=black)](./categories/drive/awd.html)
 [![4 Wheel Drive](https://shields.io/badge/4%20Wheel%20Drive-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=009DE0&color=black)](./categories/drive/4wd.html)
 
-<h1 style="color:#30378d">By Body Type</h1>
+<h1 style="color:#30378d">Body</h1>
 
 [![Coupe](https://shields.io/badge/Coupe-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=black)](./categories/body/coupe.html)
 [![SUV](https://shields.io/badge/SUV-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=black)](./categories/body/suv.html)
 [![Hatchback](https://shields.io/badge/Hatchback-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=black)](./categories/body/hatchback.html)
 [![Truck](https://shields.io/badge/Truck-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=black)](./categories/body/truck.html)
 
-<h1 style="color:#30378d">By Aspiration</h1>
+<h1 style="color:#30378d">Aspiration</h1>
 
 [![Naturally Aspirated](https://shields.io/badge/Naturally%20Aspirated-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FF0000&color=black)](./categories/induction/natural.html)
 [![Turbocharged](https://shields.io/badge/Turbocharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=00D735&color=black)](./categories/induction/turbocharged.html)
