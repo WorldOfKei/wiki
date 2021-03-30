@@ -36,7 +36,7 @@
 <h1 style="color:#30378d">By Aspiration</h1>
 
 [![Naturally Aspirated](https://shields.io/badge/Naturally%20Aspirated-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FF0000&color=black)](./categories/induction/natural.html)
-[![Turbocharged](https://shields.io/badge/Turbocharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=5CE500&color=black)](./categories/induction/turbocharged.html)
+[![Turbocharged](https://shields.io/badge/Turbocharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=00D735&color=black)](./categories/induction/turbocharged.html)
 [![Supercharged](https://shields.io/badge/Supercharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FF4500&color=black)](./categories/induction/supercharged.html)
 [![Electric](https://shields.io/badge/electric-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=29B2FE&color=black)](./categories/induction/electric.html)
 
