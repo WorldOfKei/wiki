@@ -7,6 +7,9 @@
   
   </div>
   <div class="column">
+  
+  <h2 style="color:#30378d">Dimensions</h2>
+
 
 [![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.html)
 
