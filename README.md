@@ -38,7 +38,7 @@
 [![Naturally Aspirated](https://shields.io/badge/Naturally%20Aspirated-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/natural.html)
 [![Turbocharged](https://shields.io/badge/Turbocharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/turbocharged.html)
 [![Supercharged](https://shields.io/badge/Supercharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/supercharged.html)
-[![Electric](https://shields.io/badge/Supercharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/electric.html)
+[![Electric](https://shields.io/badge/electric-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/electric.html)
 
 References
 https://gran-turismo.fandom.com/wiki/Category:Kei_cars
