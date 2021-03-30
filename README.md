@@ -2,7 +2,7 @@
 
 <h1 style="color:#30378d">By Manufacturer</h1>
 
-[![Autozam](https://shields.io/badge/Autozam-1-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.html)
+[![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.html)
 [![Daihatsu](https://shields.io/badge/Daihatsu-9-red?logo=toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=red)](./vehicles/daihatsu/index.html)
 [![Honda](https://shields.io/badge/Honda-9-red?logo=honda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=047bc0&color=red)](./vehicles/honda/index.html)
 [![Mazda](https://shields.io/badge/Mazda-9-red?logo=Mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=101010&color=red)](./vehicles/mazda/index.html)
@@ -33,11 +33,12 @@
 [![Hatchback](https://shields.io/badge/Hatchback-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/hatchback.html)
 [![Truck](https://shields.io/badge/Truck-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FFD500&color=red)](./categories/body/truck.html)
 
-<h1 style="color:#30378d">By Induction Type</h1>
+<h1 style="color:#30378d">By Aspiration</h1>
 
 [![Naturally Aspirated](https://shields.io/badge/Naturally%20Aspirated-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/natural.html)
 [![Turbocharged](https://shields.io/badge/Turbocharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/turbocharged.html)
 [![Supercharged](https://shields.io/badge/Supercharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/supercharged.html)
+[![Electric](https://shields.io/badge/Supercharged-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./categories/induction/electric.html)
 
 References
 https://gran-turismo.fandom.com/wiki/Category:Kei_cars
