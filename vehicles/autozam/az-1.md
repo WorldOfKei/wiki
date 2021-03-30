@@ -2,14 +2,16 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mazda_AZ-1_Mazda_speed_version.jpg/2560px-Mazda_AZ-1_Mazda_speed_version.jpg" width="400">
 
-<img src="https://shields.io/badge/Body-Coupe-red?logo=github-sponsors&logoWidth=20&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=EB001E&amp;color=black"> <img src="https://shields.io/badge/Drive-RWD-red?logo=github-sponsors&logoWidth=20&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=30378d&amp;color=black"> <img src="https://shields.io/badge/Era-660cc-red?logo=github-sponsors&logoWidth=20&amp;logoColor=black&amp;style=for-the-badge&amp;labelColor=ffd600&amp;color=black"> <img src="https://shields.io/badge/Induction-Turbocharged-red?logo=github-sponsors&logoWidth=20&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=00C58E&amp;color=black">
+[![](https://shields.io/badge/Body-Coupe-red?logo=canonical&logoWidth=20&logoColor=white&style=for-the-badge&labelColor=EB001E&color=black)](../../../categories/induction/natural.html)
+[![](https://shields.io/badge/Drive-RWD-red?logo=canonical&logoWidth=20&logoColor=white&style=for-the-badge&labelColor=30378d&color=black)](../../../categories/drive/rwd.html)
+[![](https://shields.io/badge/Era-660cc-red?logo=canonical&logoWidth=20&logoColor=white&style=for-the-badge&labelColor=ffd600&color=black)](../../../categories/era/660cc.html)
+[![](https://shields.io/badge/Aspiration-Turbocharged-red?logo=canonical&logoWidth=20&logoColor=white&style=for-the-badge&labelColor=00C58E&color=black)](../../../categories/era/660cc.html)
+
+
+
 
 <h2 style="color:#30378d">Overview</h2>
 
 <h2 style="color:#30378d">Engine</h2>
 
 <h2 style="color:#30378d">Dimensions</h2>
-
-
-
-
