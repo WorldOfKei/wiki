@@ -14,9 +14,9 @@
 
 <h1 style="color:#30378d">Era</h1>
 
-[![360cc](https://shields.io/badge/360cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/360cc.html)
-[![550cc](https://shields.io/badge/550cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/550cc.html)
-[![660cc](https://shields.io/badge/660cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=34A853&color=red)](./categories/era/660cc.html)
+[![360cc](https://shields.io/badge/360cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FF6900&color=black)](./categories/era/360cc.html)
+[![550cc](https://shields.io/badge/550cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FF6900&color=black)](./categories/era/550cc.html)
+[![660cc](https://shields.io/badge/660cc-1-orange?logoWidth=40&logoColor=white&style=for-the-badge&labelColor=FF6900&color=black)](./categories/era/660cc.html)
 
 <h1 style="color:#30378d">Drive System</h1>
 
