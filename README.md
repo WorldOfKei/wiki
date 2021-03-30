@@ -2,7 +2,7 @@
 
 <h1 style="color:#30378d">By Manufacturer</h1>
 
-[![Autozam](https://shields.io/badge/Autozam-9-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.html)
+[![Autozam](https://shields.io/badge/Autozam-1-red?logo=mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=30378d&color=red)](./vehicles/autozam/index.html)
 [![Daihatsu](https://shields.io/badge/Daihatsu-9-red?logo=toyota&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=EB0A1E&color=red)](./vehicles/daihatsu/index.html)
 [![Honda](https://shields.io/badge/Honda-9-red?logo=honda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=047bc0&color=red)](./vehicles/honda/index.html)
 [![Mazda](https://shields.io/badge/Mazda-9-red?logo=Mazda&logoWidth=40&logoColor=white&style=for-the-badge&labelColor=101010&color=red)](./vehicles/mazda/index.html)
